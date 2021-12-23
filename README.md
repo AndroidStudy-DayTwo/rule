@@ -19,6 +19,6 @@ ex) <b>[java] Retrofit을 이용한 Github API 불러오기</b><br><br>
 <a href="https://github.com/0pyaq0">
 <img src="https://avatars.githubusercontent.com/u/72568433?v=4" alt="drawing" width="80" />
 </a>
-<a href="https://github.com/SSSOy">
+<a href="https://github.com/areyh817">
 <img src="https://avatars.githubusercontent.com/u/78372039?v=4" alt="drawing" width="80" />
 </a>
